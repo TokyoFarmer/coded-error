@@ -1,0 +1,18 @@
+{
+  "name": "coded-error",
+  "version": "1.0.4",
+  "description": "Coded error",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrej T.",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^1.7.3"
+  },
+  "typings": "lib/index",
+  "files": [
+    "lib/"
+  ]
+}
