@@ -1,6 +1,6 @@
 {
   "name": "coded-error",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Coded error",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,5 @@
     "typescript": "^1.7.3"
   },
   "typings": "lib/index",
-  "files": [
-    "lib/"
-  ]
+  "folder": "./"
 }
