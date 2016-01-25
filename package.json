@@ -2,6 +2,10 @@
   "name": "coded-error",
   "version": "1.0.6",
   "description": "Coded error",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TokyoFarmer/coded-error.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
